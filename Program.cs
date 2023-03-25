@@ -16,7 +16,7 @@ namespace my_repo_project
 
 
             Console.WriteLine("ali");
-            Console.WriteLine("yangibayev");
+            Console.WriteLine
             
 
         }
