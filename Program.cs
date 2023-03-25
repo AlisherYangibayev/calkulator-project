@@ -15,7 +15,8 @@ namespace my_repo_project
             Console.WriteLine("gulnara");
 
 
-
+            Console.WriteLine("ali");
+            
 
         }
     }
