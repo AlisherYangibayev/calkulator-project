@@ -10,8 +10,8 @@ namespace my_repo_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("sbkdvdali");
-
+            Console.WriteLine("sbkdsgsbkji");
+            Console.WriteLine("yanginayev");
 
 
 
