@@ -12,7 +12,7 @@ namespace my_repo_project
         {
             Console.WriteLine("alisher");
             Console.WriteLine("yangibayev");
-
+            Console.WriteLine("gulnara");
 
 
 
