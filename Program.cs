@@ -35,9 +35,9 @@ namespace my_repo_project
                 case "%": sonuc = (sayi1%sayi2); break;
                  // Console.WriteLine("{0} {1} {2}={3}");
 
-              Console.WriteLine(sayi1 +" "+ islem+" "+sayi2 + " "+ sonuc );    
+              Console.WriteLine(sayi1 +" "+ islem+" "+sayi2 + " "+ sonuc );
 
-
+                    Console.WriteLine();
 
 
 
