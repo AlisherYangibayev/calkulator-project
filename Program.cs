@@ -19,7 +19,7 @@ namespace my_repo_project
             Console.WriteLine(" Islem Seciniz (+) (-) (*) (/) (%) :");
            string islem = (Console.ReadLine());
 
-            Console.WriteLine("Bir sayi giriniz");
+            Console.WriteLine("Bir   sayi giriniz");
             double sayi2 = int.Parse(Console.ReadLine());
 
             double sonuc = 0;
