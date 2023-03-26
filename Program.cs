@@ -10,14 +10,7 @@ namespace my_repo_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("alisher");
-            Console.WriteLine("yangibayev");
-            Console.WriteLine("gulnara");
-
-
-            Console.WriteLine("ali");
-            Console.WriteLine("hello");
-            
+            Console.WriteLine("Hesap Makinesi");
 
         }
     }
