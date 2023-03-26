@@ -32,6 +32,9 @@ namespace my_repo_project
                     Console.WriteLine(sayi1+sayi);
                     break;
 
+                case "-":
+                    Console.WriteLine(sayi1 - sayi);
+                    break;
 
 
 
