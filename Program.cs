@@ -14,13 +14,13 @@ namespace my_repo_project
             Console.WriteLine("Hesap Makinesi");
 
             Console.WriteLine("Bir sayi giriniz");
-            int sayi1 = int.Parse(Console.ReadLine());
+            double sayi1 = int.Parse(Console.ReadLine());
 
             Console.WriteLine(" Islem Seciniz (+) (-) (*) (/) (%) :");
            string islem = (Console.ReadLine());
 
             Console.WriteLine("Bir sayi giriniz");
-            int sayi = int.Parse(Console.ReadLine());
+            double sayi = int.Parse(Console.ReadLine());
 
 
 
