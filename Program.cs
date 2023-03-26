@@ -26,7 +26,18 @@ namespace my_repo_project
 
 
            
-            
+            switch(islem)
+            {
+                case "+":
+                    Console.WriteLine(sayi1+sayi);
+                    break;
+
+
+
+
+
+
+            }
 
 
         }
