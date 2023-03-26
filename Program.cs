@@ -13,7 +13,7 @@ namespace my_repo_project
         {
             Console.WriteLine ("Hesap Makinesi");
 
-            Console.WriteLine("Bir sayi giriniz");
+            Console.WriteLine("Bir sayi  giriniz");
             double sayi1 = int.Parse(Console.ReadLine());
 
             Console.WriteLine(" Islem Seciniz (+) (-) (*) (/) (%) :");
